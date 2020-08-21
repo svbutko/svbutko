@@ -39,6 +39,13 @@
 
 <br />
 
+### ⚡️ Recent Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+<br />
+
 [![Svbutko's github stats](https://github-readme-stats.vercel.app/api?username=svbutko&count_private=true&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff)]()
 
 [![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=svbutko&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff)]()
