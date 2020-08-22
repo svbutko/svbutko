@@ -11,6 +11,7 @@
 [<img align="left" alt="svbutko | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="svbutko | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="svbutko | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
+[<img align="left" alt="svbutko | DevTo" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dev-dot-to.svg" />][devdotto]
 
 <br />
 
@@ -63,3 +64,4 @@
 [twitter]: https://twitter.com/svbutko
 [linkedin]: https://linkedin.com/in/svbutko
 [medium]: https://medium.com/@svbutko
+[devdotto]: https://dev.to/svbutko
