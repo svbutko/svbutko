@@ -47,11 +47,11 @@
 ### ⚡️ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#20](https://github.com//VLZH/react-lightgallery/issues/20) in [VLZH/react-lightgallery](https://github.com//VLZH/react-lightgallery)
-2. 🗣 Commented on [#10](https://github.com//sachinchoolur/lg-video.js/issues/10) in [sachinchoolur/lg-video.js](https://github.com//sachinchoolur/lg-video.js)
+1. 💪 Opened PR [#21](https://github.com//VLZH/react-lightgallery/pull/21) in [VLZH/react-lightgallery](https://github.com//VLZH/react-lightgallery)
+2. 🗣 Commented on [#20](https://github.com//VLZH/react-lightgallery/issues/20) in [VLZH/react-lightgallery](https://github.com//VLZH/react-lightgallery)
 3. 🗣 Commented on [#10](https://github.com//sachinchoolur/lg-video.js/issues/10) in [sachinchoolur/lg-video.js](https://github.com//sachinchoolur/lg-video.js)
-4. 🗣 Commented on [#1265](https://github.com//react-native-community/react-native-webview/issues/1265) in [react-native-community/react-native-webview](https://github.com//react-native-community/react-native-webview)
-5. 💪 Opened PR [#10](https://github.com//sachinchoolur/lg-video.js/pull/10) in [sachinchoolur/lg-video.js](https://github.com//sachinchoolur/lg-video.js)
+4. 🗣 Commented on [#10](https://github.com//sachinchoolur/lg-video.js/issues/10) in [sachinchoolur/lg-video.js](https://github.com//sachinchoolur/lg-video.js)
+5. 🗣 Commented on [#1265](https://github.com//react-native-community/react-native-webview/issues/1265) in [react-native-community/react-native-webview](https://github.com//react-native-community/react-native-webview)
 <!--END_SECTION:activity-->
 
 <br />
