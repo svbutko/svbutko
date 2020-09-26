@@ -47,11 +47,11 @@
 ### ⚡️ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#20](https://github.com//VLZH/react-lightgallery/issues/20) in [VLZH/react-lightgallery](https://github.com//VLZH/react-lightgallery)
-2. 💪 Opened PR [#21](https://github.com//VLZH/react-lightgallery/pull/21) in [VLZH/react-lightgallery](https://github.com//VLZH/react-lightgallery)
-3. 🗣 Commented on [#20](https://github.com//VLZH/react-lightgallery/issues/20) in [VLZH/react-lightgallery](https://github.com//VLZH/react-lightgallery)
-4. 🗣 Commented on [#10](https://github.com//sachinchoolur/lg-video.js/issues/10) in [sachinchoolur/lg-video.js](https://github.com//sachinchoolur/lg-video.js)
-5. 🗣 Commented on [#10](https://github.com//sachinchoolur/lg-video.js/issues/10) in [sachinchoolur/lg-video.js](https://github.com//sachinchoolur/lg-video.js)
+1. 🗣 Commented on [#20](https://github.com/VLZH/react-lightgallery/issues/20) in [VLZH/react-lightgallery](https://github.com/VLZH/react-lightgallery)
+2. 💪 Opened PR [#21](https://github.com/VLZH/react-lightgallery/pull/21) in [VLZH/react-lightgallery](https://github.com/VLZH/react-lightgallery)
+3. 🗣 Commented on [#20](https://github.com/VLZH/react-lightgallery/issues/20) in [VLZH/react-lightgallery](https://github.com/VLZH/react-lightgallery)
+4. 🗣 Commented on [#10](https://github.com/sachinchoolur/lg-video.js/issues/10) in [sachinchoolur/lg-video.js](https://github.com/sachinchoolur/lg-video.js)
+5. 🗣 Commented on [#10](https://github.com/sachinchoolur/lg-video.js/issues/10) in [sachinchoolur/lg-video.js](https://github.com/sachinchoolur/lg-video.js)
 <!--END_SECTION:activity-->
 
 <br />
