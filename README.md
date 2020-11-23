@@ -47,11 +47,11 @@
 ### ⚡️ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#20](https://github.com/VLZH/react-lightgallery/issues/20) in [VLZH/react-lightgallery](https://github.com/VLZH/react-lightgallery)
-2. 💪 Opened PR [#21](https://github.com/VLZH/react-lightgallery/pull/21) in [VLZH/react-lightgallery](https://github.com/VLZH/react-lightgallery)
-3. 🗣 Commented on [#20](https://github.com/VLZH/react-lightgallery/issues/20) in [VLZH/react-lightgallery](https://github.com/VLZH/react-lightgallery)
-4. 🗣 Commented on [#10](https://github.com/sachinchoolur/lg-video.js/issues/10) in [sachinchoolur/lg-video.js](https://github.com/sachinchoolur/lg-video.js)
-5. 🗣 Commented on [#10](https://github.com/sachinchoolur/lg-video.js/issues/10) in [sachinchoolur/lg-video.js](https://github.com/sachinchoolur/lg-video.js)
+1. ❌ Closed PR [#1](https://github.com/svbutko/react-native-yandex-mapkit/pull/1) in [svbutko/react-native-yandex-mapkit](https://github.com/svbutko/react-native-yandex-mapkit)
+2. ❌ Closed PR [#3](https://github.com/svbutko/react-native-yandex-mapkit/pull/3) in [svbutko/react-native-yandex-mapkit](https://github.com/svbutko/react-native-yandex-mapkit)
+3. ❌ Closed PR [#4](https://github.com/svbutko/react-native-yandex-mapkit/pull/4) in [svbutko/react-native-yandex-mapkit](https://github.com/svbutko/react-native-yandex-mapkit)
+4. ❌ Closed PR [#5](https://github.com/svbutko/react-native-yandex-mapkit/pull/5) in [svbutko/react-native-yandex-mapkit](https://github.com/svbutko/react-native-yandex-mapkit)
+5. ❌ Closed PR [#6](https://github.com/svbutko/react-native-yandex-mapkit/pull/6) in [svbutko/react-native-yandex-mapkit](https://github.com/svbutko/react-native-yandex-mapkit)
 <!--END_SECTION:activity-->
 
 <br />
