@@ -47,11 +47,11 @@
 ### ⚡️ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#1](https://github.com/svbutko/react-native-yandex-mapkit/pull/1) in [svbutko/react-native-yandex-mapkit](https://github.com/svbutko/react-native-yandex-mapkit)
-2. ❌ Closed PR [#3](https://github.com/svbutko/react-native-yandex-mapkit/pull/3) in [svbutko/react-native-yandex-mapkit](https://github.com/svbutko/react-native-yandex-mapkit)
-3. ❌ Closed PR [#4](https://github.com/svbutko/react-native-yandex-mapkit/pull/4) in [svbutko/react-native-yandex-mapkit](https://github.com/svbutko/react-native-yandex-mapkit)
-4. ❌ Closed PR [#5](https://github.com/svbutko/react-native-yandex-mapkit/pull/5) in [svbutko/react-native-yandex-mapkit](https://github.com/svbutko/react-native-yandex-mapkit)
-5. ❌ Closed PR [#6](https://github.com/svbutko/react-native-yandex-mapkit/pull/6) in [svbutko/react-native-yandex-mapkit](https://github.com/svbutko/react-native-yandex-mapkit)
+1. ❌ Closed PR [#1](https://github.com/svbutko/react-native-navigation/pull/1) in [svbutko/react-native-navigation](https://github.com/svbutko/react-native-navigation)
+2. 💪 Opened PR [#6890](https://github.com/wix/react-native-navigation/pull/6890) in [wix/react-native-navigation](https://github.com/wix/react-native-navigation)
+3. 💪 Opened PR [#1](https://github.com/svbutko/react-native-navigation/pull/1) in [svbutko/react-native-navigation](https://github.com/svbutko/react-native-navigation)
+4. ❌ Closed PR [#1](https://github.com/svbutko/react-native-yandex-mapkit/pull/1) in [svbutko/react-native-yandex-mapkit](https://github.com/svbutko/react-native-yandex-mapkit)
+5. ❌ Closed PR [#3](https://github.com/svbutko/react-native-yandex-mapkit/pull/3) in [svbutko/react-native-yandex-mapkit](https://github.com/svbutko/react-native-yandex-mapkit)
 <!--END_SECTION:activity-->
 
 <br />
