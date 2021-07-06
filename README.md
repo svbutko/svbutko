@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on developing and contributing in react-native repos!
 - 🌱 I’m currently learning lots of stuff in different fields
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2021 Goals: Contribute more to Open Source projects and write more articles
 
 ### Connect with me:
 
