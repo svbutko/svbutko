@@ -36,11 +36,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [React Native resources to learn and get inspiration](https://dev.to/svbutko/react-native-resources-to-learn-and-get-inspiration-1845)
 - [WebStorm plugins to boost your productivity](https://dev.to/svbutko/webstorm-plugins-to-boost-your-productivity-nac)
 - [Make YouTube Work in Full Screen Correctly on iPad (React Native and iOS)](https://blog.usejournal.com/make-youtube-work-in-full-screen-correctly-on-ipad-react-native-and-ios-43e1ef7120c0?source=rss-e75d58c9786------2)
 - [Testing apps primarily on high-end devices is a bad idea](https://medium.com/@svbutko/testing-apps-primarily-on-high-end-devices-is-a-bad-idea-761b3495f54a?source=rss-e75d58c9786------2)
 - [React Native Issues You (Will) Face Daily](https://blog.usejournal.com/react-native-issues-you-will-face-daily-518cb3e7f8e2?source=rss-e75d58c9786------2)
-- [React-Native Tips and Tools](https://medium.com/@svbutko/rn-tips-and-tools-9e1ec751dfb?source=rss-e75d58c9786------2)
 <!-- BLOG-POST-LIST:END -->
 
 <br />
