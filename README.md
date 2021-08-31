@@ -8,10 +8,10 @@
 
 ### Connect with me:
 
-[<img align="left" alt="svbutko | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="svbutko | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="svbutko | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
-[<img align="left" alt="svbutko | DevTo" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dev-dot-to.svg" />][devdotto]
+[<img align="left" alt="svbutko | Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
+[<img align="left" alt="svbutko | LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
+[<img align="left" alt="svbutko | DevTo" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" />][devdotto]
+[<img align="left" alt="svbutko | Reddit" src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" />][reddit]
 
 <br />
 
@@ -66,3 +66,4 @@
 [linkedin]: https://linkedin.com/in/svbutko
 [medium]: https://medium.com/@svbutko
 [devdotto]: https://dev.to/svbutko
+[reddit]: https://www.reddit.com/user/S3rg1usz
