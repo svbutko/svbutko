@@ -51,8 +51,8 @@
 1. 🗣 Commented on [#7253](https://github.com/wix/react-native-navigation/issues/7253) in [wix/react-native-navigation](https://github.com/wix/react-native-navigation)
 2. 🗣 Commented on [#7253](https://github.com/wix/react-native-navigation/issues/7253) in [wix/react-native-navigation](https://github.com/wix/react-native-navigation)
 3. 🗣 Commented on [#7253](https://github.com/wix/react-native-navigation/issues/7253) in [wix/react-native-navigation](https://github.com/wix/react-native-navigation)
-4. 💪 Opened PR [#7253](https://github.com/wix/react-native-navigation/pull/7253) in [wix/react-native-navigation](https://github.com/wix/react-native-navigation)
-5. 💪 Opened PR [#7244](https://github.com/wix/react-native-navigation/pull/7244) in [wix/react-native-navigation](https://github.com/wix/react-native-navigation)
+4. 🗣 Commented on [#7253](https://github.com/wix/react-native-navigation/issues/7253) in [wix/react-native-navigation](https://github.com/wix/react-native-navigation)
+5. 🗣 Commented on [#7253](https://github.com/wix/react-native-navigation/issues/7253) in [wix/react-native-navigation](https://github.com/wix/react-native-navigation)
 <!--END_SECTION:activity-->
 
 <br />
