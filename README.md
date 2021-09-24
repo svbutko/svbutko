@@ -49,10 +49,10 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#55951](https://github.com/DefinitelyTyped/DefinitelyTyped/issues/55951) in [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped)
-2. 💪 Opened PR [#55951](https://github.com/DefinitelyTyped/DefinitelyTyped/pull/55951) in [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped)
-3. 💪 Opened PR [#13](https://github.com/birkir/react-native-sfsymbols/pull/13) in [birkir/react-native-sfsymbols](https://github.com/birkir/react-native-sfsymbols)
-4. 💪 Opened PR [#7271](https://github.com/wix/react-native-navigation/pull/7271) in [wix/react-native-navigation](https://github.com/wix/react-native-navigation)
-5. 🗣 Commented on [#7259](https://github.com/wix/react-native-navigation/issues/7259) in [wix/react-native-navigation](https://github.com/wix/react-native-navigation)
+2. 🗣 Commented on [#55951](https://github.com/DefinitelyTyped/DefinitelyTyped/issues/55951) in [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped)
+3. 💪 Opened PR [#55951](https://github.com/DefinitelyTyped/DefinitelyTyped/pull/55951) in [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped)
+4. 💪 Opened PR [#13](https://github.com/birkir/react-native-sfsymbols/pull/13) in [birkir/react-native-sfsymbols](https://github.com/birkir/react-native-sfsymbols)
+5. 💪 Opened PR [#7271](https://github.com/wix/react-native-navigation/pull/7271) in [wix/react-native-navigation](https://github.com/wix/react-native-navigation)
 <!--END_SECTION:activity-->
 
 <br />
