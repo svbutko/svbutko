@@ -48,11 +48,11 @@
 ### ⚡️ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#55951](https://github.com/DefinitelyTyped/DefinitelyTyped/issues/55951) in [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped)
-2. 🗣 Commented on [#55951](https://github.com/DefinitelyTyped/DefinitelyTyped/issues/55951) in [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped)
-3. 💪 Opened PR [#55951](https://github.com/DefinitelyTyped/DefinitelyTyped/pull/55951) in [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped)
-4. 💪 Opened PR [#13](https://github.com/birkir/react-native-sfsymbols/pull/13) in [birkir/react-native-sfsymbols](https://github.com/birkir/react-native-sfsymbols)
-5. 💪 Opened PR [#7271](https://github.com/wix/react-native-navigation/pull/7271) in [wix/react-native-navigation](https://github.com/wix/react-native-navigation)
+1. ❗️ Opened issue [#17](https://github.com/svbutko/react-native-template-strong/issues/17) in [svbutko/react-native-template-strong](https://github.com/svbutko/react-native-template-strong)
+2. ❗️ Opened issue [#16](https://github.com/svbutko/react-native-template-strong/issues/16) in [svbutko/react-native-template-strong](https://github.com/svbutko/react-native-template-strong)
+3. ❗️ Opened issue [#15](https://github.com/svbutko/react-native-template-strong/issues/15) in [svbutko/react-native-template-strong](https://github.com/svbutko/react-native-template-strong)
+4. ❗️ Opened issue [#14](https://github.com/svbutko/react-native-template-strong/issues/14) in [svbutko/react-native-template-strong](https://github.com/svbutko/react-native-template-strong)
+5. ❗️ Opened issue [#13](https://github.com/svbutko/react-native-template-strong/issues/13) in [svbutko/react-native-template-strong](https://github.com/svbutko/react-native-template-strong)
 <!--END_SECTION:activity-->
 
 <br />
