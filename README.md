@@ -48,11 +48,11 @@
 ### ⚡️ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#32319](https://github.com/facebook/react-native/pull/32319) in [facebook/react-native](https://github.com/facebook/react-native)
-2. 🗣 Commented on [#7034](https://github.com/wix/react-native-navigation/issues/7034) in [wix/react-native-navigation](https://github.com/wix/react-native-navigation)
-3. 🎉 Merged PR [#27](https://github.com/svbutko/react-native-template-strong/pull/27) in [svbutko/react-native-template-strong](https://github.com/svbutko/react-native-template-strong)
-4. 💪 Opened PR [#27](https://github.com/svbutko/react-native-template-strong/pull/27) in [svbutko/react-native-template-strong](https://github.com/svbutko/react-native-template-strong)
-5. 🗣 Commented on [#7034](https://github.com/wix/react-native-navigation/issues/7034) in [wix/react-native-navigation](https://github.com/wix/react-native-navigation)
+1. 🗣 Commented on [#14](https://github.com/birkir/react-native-sfsymbols/issues/14) in [birkir/react-native-sfsymbols](https://github.com/birkir/react-native-sfsymbols)
+2. 💪 Opened PR [#14](https://github.com/birkir/react-native-sfsymbols/pull/14) in [birkir/react-native-sfsymbols](https://github.com/birkir/react-native-sfsymbols)
+3. 💪 Opened PR [#32319](https://github.com/facebook/react-native/pull/32319) in [facebook/react-native](https://github.com/facebook/react-native)
+4. 🗣 Commented on [#7034](https://github.com/wix/react-native-navigation/issues/7034) in [wix/react-native-navigation](https://github.com/wix/react-native-navigation)
+5. 🎉 Merged PR [#27](https://github.com/svbutko/react-native-template-strong/pull/27) in [svbutko/react-native-template-strong](https://github.com/svbutko/react-native-template-strong)
 <!--END_SECTION:activity-->
 
 <br />
