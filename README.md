@@ -48,11 +48,11 @@
 ### ⚡️ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#6](https://github.com/svbutko/eslint-config-react-strong/pull/6) in [svbutko/eslint-config-react-strong](https://github.com/svbutko/eslint-config-react-strong)
-2. 💪 Opened PR [#6](https://github.com/svbutko/eslint-config-react-strong/pull/6) in [svbutko/eslint-config-react-strong](https://github.com/svbutko/eslint-config-react-strong)
-3. 🗣 Commented on [#14](https://github.com/birkir/react-native-sfsymbols/issues/14) in [birkir/react-native-sfsymbols](https://github.com/birkir/react-native-sfsymbols)
-4. 💪 Opened PR [#14](https://github.com/birkir/react-native-sfsymbols/pull/14) in [birkir/react-native-sfsymbols](https://github.com/birkir/react-native-sfsymbols)
-5. 💪 Opened PR [#32319](https://github.com/facebook/react-native/pull/32319) in [facebook/react-native](https://github.com/facebook/react-native)
+1. 🎉 Merged PR [#28](https://github.com/svbutko/react-native-template-strong/pull/28) in [svbutko/react-native-template-strong](https://github.com/svbutko/react-native-template-strong)
+2. 💪 Opened PR [#28](https://github.com/svbutko/react-native-template-strong/pull/28) in [svbutko/react-native-template-strong](https://github.com/svbutko/react-native-template-strong)
+3. 💪 Opened PR [#32321](https://github.com/facebook/react-native/pull/32321) in [facebook/react-native](https://github.com/facebook/react-native)
+4. 🎉 Merged PR [#6](https://github.com/svbutko/eslint-config-react-strong/pull/6) in [svbutko/eslint-config-react-strong](https://github.com/svbutko/eslint-config-react-strong)
+5. 💪 Opened PR [#6](https://github.com/svbutko/eslint-config-react-strong/pull/6) in [svbutko/eslint-config-react-strong](https://github.com/svbutko/eslint-config-react-strong)
 <!--END_SECTION:activity-->
 
 <br />
