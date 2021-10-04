@@ -48,11 +48,11 @@
 ### ⚡️ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#7274](https://github.com/wix/react-native-navigation/issues/7274) in [wix/react-native-navigation](https://github.com/wix/react-native-navigation)
-2. 🗣 Commented on [#7271](https://github.com/wix/react-native-navigation/issues/7271) in [wix/react-native-navigation](https://github.com/wix/react-native-navigation)
-3. 🗣 Commented on [#14](https://github.com/birkir/react-native-sfsymbols/issues/14) in [birkir/react-native-sfsymbols](https://github.com/birkir/react-native-sfsymbols)
-4. 🗣 Commented on [#32186](https://github.com/facebook/react-native/issues/32186) in [facebook/react-native](https://github.com/facebook/react-native)
-5. 🗣 Commented on [#32319](https://github.com/facebook/react-native/issues/32319) in [facebook/react-native](https://github.com/facebook/react-native)
+1. 🗣 Commented on [#7272](https://github.com/wix/react-native-navigation/issues/7272) in [wix/react-native-navigation](https://github.com/wix/react-native-navigation)
+2. 🗣 Commented on [#7283](https://github.com/wix/react-native-navigation/issues/7283) in [wix/react-native-navigation](https://github.com/wix/react-native-navigation)
+3. 🗣 Commented on [#7274](https://github.com/wix/react-native-navigation/issues/7274) in [wix/react-native-navigation](https://github.com/wix/react-native-navigation)
+4. 🗣 Commented on [#7271](https://github.com/wix/react-native-navigation/issues/7271) in [wix/react-native-navigation](https://github.com/wix/react-native-navigation)
+5. 🗣 Commented on [#14](https://github.com/birkir/react-native-sfsymbols/issues/14) in [birkir/react-native-sfsymbols](https://github.com/birkir/react-native-sfsymbols)
 <!--END_SECTION:activity-->
 
 <br />
