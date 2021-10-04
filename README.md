@@ -48,11 +48,11 @@
 ### ⚡️ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#32186](https://github.com/facebook/react-native/issues/32186) in [facebook/react-native](https://github.com/facebook/react-native)
-2. 🗣 Commented on [#32319](https://github.com/facebook/react-native/issues/32319) in [facebook/react-native](https://github.com/facebook/react-native)
-3. 🎉 Merged PR [#32](https://github.com/svbutko/react-native-template-strong/pull/32) in [svbutko/react-native-template-strong](https://github.com/svbutko/react-native-template-strong)
-4. 💪 Opened PR [#32](https://github.com/svbutko/react-native-template-strong/pull/32) in [svbutko/react-native-template-strong](https://github.com/svbutko/react-native-template-strong)
-5. 🎉 Merged PR [#30](https://github.com/svbutko/react-native-template-strong/pull/30) in [svbutko/react-native-template-strong](https://github.com/svbutko/react-native-template-strong)
+1. 🗣 Commented on [#14](https://github.com/birkir/react-native-sfsymbols/issues/14) in [birkir/react-native-sfsymbols](https://github.com/birkir/react-native-sfsymbols)
+2. 🗣 Commented on [#32186](https://github.com/facebook/react-native/issues/32186) in [facebook/react-native](https://github.com/facebook/react-native)
+3. 🗣 Commented on [#32319](https://github.com/facebook/react-native/issues/32319) in [facebook/react-native](https://github.com/facebook/react-native)
+4. 🎉 Merged PR [#32](https://github.com/svbutko/react-native-template-strong/pull/32) in [svbutko/react-native-template-strong](https://github.com/svbutko/react-native-template-strong)
+5. 💪 Opened PR [#32](https://github.com/svbutko/react-native-template-strong/pull/32) in [svbutko/react-native-template-strong](https://github.com/svbutko/react-native-template-strong)
 <!--END_SECTION:activity-->
 
 <br />
