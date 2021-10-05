@@ -48,11 +48,11 @@
 ### ⚡️ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#7286](https://github.com/wix/react-native-navigation/pull/7286) in [wix/react-native-navigation](https://github.com/wix/react-native-navigation)
-2. 🎉 Merged PR [#34](https://github.com/svbutko/react-native-template-strong/pull/34) in [svbutko/react-native-template-strong](https://github.com/svbutko/react-native-template-strong)
-3. 💪 Opened PR [#34](https://github.com/svbutko/react-native-template-strong/pull/34) in [svbutko/react-native-template-strong](https://github.com/svbutko/react-native-template-strong)
-4. 🎉 Merged PR [#33](https://github.com/svbutko/react-native-template-strong/pull/33) in [svbutko/react-native-template-strong](https://github.com/svbutko/react-native-template-strong)
-5. 💪 Opened PR [#33](https://github.com/svbutko/react-native-template-strong/pull/33) in [svbutko/react-native-template-strong](https://github.com/svbutko/react-native-template-strong)
+1. 🗣 Commented on [#7287](https://github.com/wix/react-native-navigation/issues/7287) in [wix/react-native-navigation](https://github.com/wix/react-native-navigation)
+2. 🗣 Commented on [#7286](https://github.com/wix/react-native-navigation/issues/7286) in [wix/react-native-navigation](https://github.com/wix/react-native-navigation)
+3. 🗣 Commented on [#7286](https://github.com/wix/react-native-navigation/issues/7286) in [wix/react-native-navigation](https://github.com/wix/react-native-navigation)
+4. 🗣 Commented on [#7285](https://github.com/wix/react-native-navigation/issues/7285) in [wix/react-native-navigation](https://github.com/wix/react-native-navigation)
+5. 💪 Opened PR [#7287](https://github.com/wix/react-native-navigation/pull/7287) in [wix/react-native-navigation](https://github.com/wix/react-native-navigation)
 <!--END_SECTION:activity-->
 
 <br />
