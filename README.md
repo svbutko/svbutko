@@ -48,11 +48,11 @@
 ### ⚡️ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#39](https://github.com/svbutko/react-native-template-strong/pull/39) in [svbutko/react-native-template-strong](https://github.com/svbutko/react-native-template-strong)
-2. 💪 Opened PR [#39](https://github.com/svbutko/react-native-template-strong/pull/39) in [svbutko/react-native-template-strong](https://github.com/svbutko/react-native-template-strong)
-3. 🎉 Merged PR [#38](https://github.com/svbutko/react-native-template-strong/pull/38) in [svbutko/react-native-template-strong](https://github.com/svbutko/react-native-template-strong)
-4. 💪 Opened PR [#38](https://github.com/svbutko/react-native-template-strong/pull/38) in [svbutko/react-native-template-strong](https://github.com/svbutko/react-native-template-strong)
-5. 🗣 Commented on [#7034](https://github.com/wix/react-native-navigation/issues/7034) in [wix/react-native-navigation](https://github.com/wix/react-native-navigation)
+1. 🎉 Merged PR [#40](https://github.com/svbutko/react-native-template-strong/pull/40) in [svbutko/react-native-template-strong](https://github.com/svbutko/react-native-template-strong)
+2. 💪 Opened PR [#40](https://github.com/svbutko/react-native-template-strong/pull/40) in [svbutko/react-native-template-strong](https://github.com/svbutko/react-native-template-strong)
+3. 🎉 Merged PR [#39](https://github.com/svbutko/react-native-template-strong/pull/39) in [svbutko/react-native-template-strong](https://github.com/svbutko/react-native-template-strong)
+4. 💪 Opened PR [#39](https://github.com/svbutko/react-native-template-strong/pull/39) in [svbutko/react-native-template-strong](https://github.com/svbutko/react-native-template-strong)
+5. 🎉 Merged PR [#38](https://github.com/svbutko/react-native-template-strong/pull/38) in [svbutko/react-native-template-strong](https://github.com/svbutko/react-native-template-strong)
 <!--END_SECTION:activity-->
 
 <br />
