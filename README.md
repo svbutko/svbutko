@@ -49,10 +49,10 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#50](https://github.com/react-native-community/rn-diff-purge/issues/50) in [react-native-community/rn-diff-purge](https://github.com/react-native-community/rn-diff-purge)
-2. 💪 Opened PR [#51](https://github.com/react-native-community/rn-diff-purge/pull/51) in [react-native-community/rn-diff-purge](https://github.com/react-native-community/rn-diff-purge)
-3. 🎉 Merged PR [#43](https://github.com/svbutko/react-native-template-strong/pull/43) in [svbutko/react-native-template-strong](https://github.com/svbutko/react-native-template-strong)
-4. 💪 Opened PR [#43](https://github.com/svbutko/react-native-template-strong/pull/43) in [svbutko/react-native-template-strong](https://github.com/svbutko/react-native-template-strong)
-5. 🗣 Commented on [#50](https://github.com/react-native-community/rn-diff-purge/issues/50) in [react-native-community/rn-diff-purge](https://github.com/react-native-community/rn-diff-purge)
+2. 🗣 Commented on [#50](https://github.com/react-native-community/rn-diff-purge/issues/50) in [react-native-community/rn-diff-purge](https://github.com/react-native-community/rn-diff-purge)
+3. 💪 Opened PR [#51](https://github.com/react-native-community/rn-diff-purge/pull/51) in [react-native-community/rn-diff-purge](https://github.com/react-native-community/rn-diff-purge)
+4. 🎉 Merged PR [#43](https://github.com/svbutko/react-native-template-strong/pull/43) in [svbutko/react-native-template-strong](https://github.com/svbutko/react-native-template-strong)
+5. 💪 Opened PR [#43](https://github.com/svbutko/react-native-template-strong/pull/43) in [svbutko/react-native-template-strong](https://github.com/svbutko/react-native-template-strong)
 <!--END_SECTION:activity-->
 
 <br />
