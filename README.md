@@ -48,11 +48,11 @@
 ### ⚡️ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#7302](https://github.com/wix/react-native-navigation/pull/7302) in [wix/react-native-navigation](https://github.com/wix/react-native-navigation)
-2. 🗣 Commented on [#7302](https://github.com/wix/react-native-navigation/issues/7302) in [wix/react-native-navigation](https://github.com/wix/react-native-navigation)
-3. 🗣 Commented on [#7302](https://github.com/wix/react-native-navigation/issues/7302) in [wix/react-native-navigation](https://github.com/wix/react-native-navigation)
-4. 💪 Opened PR [#7302](https://github.com/wix/react-native-navigation/pull/7302) in [wix/react-native-navigation](https://github.com/wix/react-native-navigation)
-5. 🗣 Commented on [#7301](https://github.com/wix/react-native-navigation/issues/7301) in [wix/react-native-navigation](https://github.com/wix/react-native-navigation)
+1. 🗣 Commented on [#50](https://github.com/react-native-community/rn-diff-purge/issues/50) in [react-native-community/rn-diff-purge](https://github.com/react-native-community/rn-diff-purge)
+2. 💪 Opened PR [#51](https://github.com/react-native-community/rn-diff-purge/pull/51) in [react-native-community/rn-diff-purge](https://github.com/react-native-community/rn-diff-purge)
+3. 🎉 Merged PR [#43](https://github.com/svbutko/react-native-template-strong/pull/43) in [svbutko/react-native-template-strong](https://github.com/svbutko/react-native-template-strong)
+4. 💪 Opened PR [#43](https://github.com/svbutko/react-native-template-strong/pull/43) in [svbutko/react-native-template-strong](https://github.com/svbutko/react-native-template-strong)
+5. 🗣 Commented on [#50](https://github.com/react-native-community/rn-diff-purge/issues/50) in [react-native-community/rn-diff-purge](https://github.com/react-native-community/rn-diff-purge)
 <!--END_SECTION:activity-->
 
 <br />
