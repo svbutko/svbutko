@@ -50,11 +50,11 @@
 ### ⚡️ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#7304](https://github.com/wix/react-native-navigation/issues/7304) in [wix/react-native-navigation](https://github.com/wix/react-native-navigation)
-2. 🗣 Commented on [#7301](https://github.com/wix/react-native-navigation/issues/7301) in [wix/react-native-navigation](https://github.com/wix/react-native-navigation)
-3. 🎉 Merged PR [#49](https://github.com/svbutko/react-native-template-strong/pull/49) in [svbutko/react-native-template-strong](https://github.com/svbutko/react-native-template-strong)
-4. 💪 Opened PR [#49](https://github.com/svbutko/react-native-template-strong/pull/49) in [svbutko/react-native-template-strong](https://github.com/svbutko/react-native-template-strong)
-5. 🎉 Merged PR [#48](https://github.com/svbutko/react-native-template-strong/pull/48) in [svbutko/react-native-template-strong](https://github.com/svbutko/react-native-template-strong)
+1. 🗣 Commented on [#1](https://github.com/marcshilling/rnn-modal-dismiss-event-bug/issues/1) in [marcshilling/rnn-modal-dismiss-event-bug](https://github.com/marcshilling/rnn-modal-dismiss-event-bug)
+2. 🗣 Commented on [#7304](https://github.com/wix/react-native-navigation/issues/7304) in [wix/react-native-navigation](https://github.com/wix/react-native-navigation)
+3. ❗️ Closed issue [#7304](https://github.com/wix/react-native-navigation/issues/7304) in [wix/react-native-navigation](https://github.com/wix/react-native-navigation)
+4. 💪 Opened PR [#1](https://github.com/marcshilling/rnn-modal-dismiss-event-bug/pull/1) in [marcshilling/rnn-modal-dismiss-event-bug](https://github.com/marcshilling/rnn-modal-dismiss-event-bug)
+5. 🗣 Commented on [#7304](https://github.com/wix/react-native-navigation/issues/7304) in [wix/react-native-navigation](https://github.com/wix/react-native-navigation)
 <!--END_SECTION:activity-->
 
 <br />
