@@ -50,11 +50,11 @@
 ### ⚡️ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/marcshilling/rnn-modal-dismiss-event-bug/issues/1) in [marcshilling/rnn-modal-dismiss-event-bug](https://github.com/marcshilling/rnn-modal-dismiss-event-bug)
-2. 🗣 Commented on [#7304](https://github.com/wix/react-native-navigation/issues/7304) in [wix/react-native-navigation](https://github.com/wix/react-native-navigation)
-3. ❗️ Closed issue [#7304](https://github.com/wix/react-native-navigation/issues/7304) in [wix/react-native-navigation](https://github.com/wix/react-native-navigation)
-4. 💪 Opened PR [#1](https://github.com/marcshilling/rnn-modal-dismiss-event-bug/pull/1) in [marcshilling/rnn-modal-dismiss-event-bug](https://github.com/marcshilling/rnn-modal-dismiss-event-bug)
-5. 🗣 Commented on [#7304](https://github.com/wix/react-native-navigation/issues/7304) in [wix/react-native-navigation](https://github.com/wix/react-native-navigation)
+1. 🗣 Commented on [#1371](https://github.com/oblador/react-native-vector-icons/issues/1371) in [oblador/react-native-vector-icons](https://github.com/oblador/react-native-vector-icons)
+2. 🗣 Commented on [#1](https://github.com/marcshilling/rnn-modal-dismiss-event-bug/issues/1) in [marcshilling/rnn-modal-dismiss-event-bug](https://github.com/marcshilling/rnn-modal-dismiss-event-bug)
+3. 🗣 Commented on [#7304](https://github.com/wix/react-native-navigation/issues/7304) in [wix/react-native-navigation](https://github.com/wix/react-native-navigation)
+4. ❗️ Closed issue [#7304](https://github.com/wix/react-native-navigation/issues/7304) in [wix/react-native-navigation](https://github.com/wix/react-native-navigation)
+5. 💪 Opened PR [#1](https://github.com/marcshilling/rnn-modal-dismiss-event-bug/pull/1) in [marcshilling/rnn-modal-dismiss-event-bug](https://github.com/marcshilling/rnn-modal-dismiss-event-bug)
 <!--END_SECTION:activity-->
 
 <br />
