@@ -38,11 +38,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [React Native Template Strong](https://dev.to/svbutko/react-native-template-strong-28h)
 - [ESLint Config for React and React Native Development](https://dev.to/svbutko/eslint-config-for-react-and-react-native-development-25m)
 - [React Native Image Resource Generator](https://dev.to/svbutko/react-native-image-resource-generator-m14)
 - [React Native resources to learn and get inspiration](https://dev.to/svbutko/react-native-resources-to-learn-and-get-inspiration-1845)
 - [WebStorm plugins to boost your productivity](https://dev.to/svbutko/webstorm-plugins-to-boost-your-productivity-nac)
-- [Make YouTube Work in Full Screen Correctly on iPad (React Native and iOS)](https://medium.com/@svbutko/make-youtube-work-in-full-screen-correctly-on-ipad-react-native-and-ios-43e1ef7120c0?source=rss-e75d58c9786------2)
 <!-- BLOG-POST-LIST:END -->
 
 <br />
