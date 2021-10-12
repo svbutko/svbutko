@@ -50,11 +50,11 @@
 ### ⚡️ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#15](https://github.com/birkir/react-native-sfsymbols/issues/15) in [birkir/react-native-sfsymbols](https://github.com/birkir/react-native-sfsymbols)
-2. 🎉 Merged PR [#53](https://github.com/svbutko/react-native-template-strong/pull/53) in [svbutko/react-native-template-strong](https://github.com/svbutko/react-native-template-strong)
-3. 💪 Opened PR [#53](https://github.com/svbutko/react-native-template-strong/pull/53) in [svbutko/react-native-template-strong](https://github.com/svbutko/react-native-template-strong)
-4. 💪 Opened PR [#52](https://github.com/svbutko/react-native-template-strong/pull/52) in [svbutko/react-native-template-strong](https://github.com/svbutko/react-native-template-strong)
-5. 🎉 Merged PR [#51](https://github.com/svbutko/react-native-template-strong/pull/51) in [svbutko/react-native-template-strong](https://github.com/svbutko/react-native-template-strong)
+1. 💪 Opened PR [#55](https://github.com/svbutko/react-native-template-strong/pull/55) in [svbutko/react-native-template-strong](https://github.com/svbutko/react-native-template-strong)
+2. 🎉 Merged PR [#54](https://github.com/svbutko/react-native-template-strong/pull/54) in [svbutko/react-native-template-strong](https://github.com/svbutko/react-native-template-strong)
+3. 💪 Opened PR [#54](https://github.com/svbutko/react-native-template-strong/pull/54) in [svbutko/react-native-template-strong](https://github.com/svbutko/react-native-template-strong)
+4. 🗣 Commented on [#15](https://github.com/birkir/react-native-sfsymbols/issues/15) in [birkir/react-native-sfsymbols](https://github.com/birkir/react-native-sfsymbols)
+5. ❗️ Opened issue [#15](https://github.com/birkir/react-native-sfsymbols/issues/15) in [birkir/react-native-sfsymbols](https://github.com/birkir/react-native-sfsymbols)
 <!--END_SECTION:activity-->
 
 <br />
