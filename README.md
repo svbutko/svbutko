@@ -50,11 +50,11 @@
 ### ⚡️ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#148](https://github.com/react-native-community/docker-android/issues/148) in [react-native-community/docker-android](https://github.com/react-native-community/docker-android)
-2. 🗣 Commented on [#7314](https://github.com/wix/react-native-navigation/issues/7314) in [wix/react-native-navigation](https://github.com/wix/react-native-navigation)
-3. 🗣 Commented on [#254](https://github.com/react-native-community/releases/issues/254) in [react-native-community/releases](https://github.com/react-native-community/releases)
-4. 💪 Opened PR [#148](https://github.com/react-native-community/docker-android/pull/148) in [react-native-community/docker-android](https://github.com/react-native-community/docker-android)
-5. 🗣 Commented on [#254](https://github.com/react-native-community/releases/issues/254) in [react-native-community/releases](https://github.com/react-native-community/releases)
+1. 🗣 Commented on [#254](https://github.com/react-native-community/releases/issues/254) in [react-native-community/releases](https://github.com/react-native-community/releases)
+2. 🗣 Commented on [#148](https://github.com/react-native-community/docker-android/issues/148) in [react-native-community/docker-android](https://github.com/react-native-community/docker-android)
+3. 🗣 Commented on [#7314](https://github.com/wix/react-native-navigation/issues/7314) in [wix/react-native-navigation](https://github.com/wix/react-native-navigation)
+4. 🗣 Commented on [#254](https://github.com/react-native-community/releases/issues/254) in [react-native-community/releases](https://github.com/react-native-community/releases)
+5. 💪 Opened PR [#148](https://github.com/react-native-community/docker-android/pull/148) in [react-native-community/docker-android](https://github.com/react-native-community/docker-android)
 <!--END_SECTION:activity-->
 
 <br />
