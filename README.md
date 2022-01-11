@@ -50,11 +50,11 @@
 ### ⚡️ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#7306](https://github.com/wix/react-native-navigation/issues/7306) in [wix/react-native-navigation](https://github.com/wix/react-native-navigation)
-2. ❗️ Closed issue [#77](https://github.com/svbutko/react-native-template-strong/issues/77) in [svbutko/react-native-template-strong](https://github.com/svbutko/react-native-template-strong)
-3. 🗣 Commented on [#77](https://github.com/svbutko/react-native-template-strong/issues/77) in [svbutko/react-native-template-strong](https://github.com/svbutko/react-native-template-strong)
+1. 🗣 Commented on [#7320](https://github.com/wix/react-native-navigation/issues/7320) in [wix/react-native-navigation](https://github.com/wix/react-native-navigation)
+2. 🗣 Commented on [#7306](https://github.com/wix/react-native-navigation/issues/7306) in [wix/react-native-navigation](https://github.com/wix/react-native-navigation)
+3. ❗️ Closed issue [#77](https://github.com/svbutko/react-native-template-strong/issues/77) in [svbutko/react-native-template-strong](https://github.com/svbutko/react-native-template-strong)
 4. 🗣 Commented on [#77](https://github.com/svbutko/react-native-template-strong/issues/77) in [svbutko/react-native-template-strong](https://github.com/svbutko/react-native-template-strong)
-5. ❌ Closed PR [#1](https://github.com/marcshilling/rnn-modal-dismiss-event-bug/pull/1) in [marcshilling/rnn-modal-dismiss-event-bug](https://github.com/marcshilling/rnn-modal-dismiss-event-bug)
+5. 🗣 Commented on [#77](https://github.com/svbutko/react-native-template-strong/issues/77) in [svbutko/react-native-template-strong](https://github.com/svbutko/react-native-template-strong)
 <!--END_SECTION:activity-->
 
 <br />
