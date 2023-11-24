@@ -48,11 +48,11 @@
 ### ⚡️ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [2.2.0](https://github.com/svbutko/react-native-template-strong/releases/tag/v2.2.0) in [svbutko/react-native-template-strong](https://github.com/svbutko/react-native-template-strong)
-2. 🎉 Merged PR [#146](https://github.com/svbutko/react-native-template-strong/pull/146) in [svbutko/react-native-template-strong](https://github.com/svbutko/react-native-template-strong)
-3. 💪 Opened PR [#146](https://github.com/svbutko/react-native-template-strong/pull/146) in [svbutko/react-native-template-strong](https://github.com/svbutko/react-native-template-strong)
-4. 🎉 Merged PR [#145](https://github.com/svbutko/react-native-template-strong/pull/145) in [svbutko/react-native-template-strong](https://github.com/svbutko/react-native-template-strong)
-5. 💪 Opened PR [#145](https://github.com/svbutko/react-native-template-strong/pull/145) in [svbutko/react-native-template-strong](https://github.com/svbutko/react-native-template-strong)
+1. 🗣 Commented on [#609](https://github.com/react-native-tvos/react-native-tvos/issues/609#issuecomment-1825937265) in [react-native-tvos/react-native-tvos](https://github.com/react-native-tvos/react-native-tvos)
+2. ❗ Opened issue [#609](https://github.com/react-native-tvos/react-native-tvos/issues/609) in [react-native-tvos/react-native-tvos](https://github.com/react-native-tvos/react-native-tvos)
+3. 🚀 Published release [2.2.0](https://github.com/svbutko/react-native-template-strong/releases/tag/v2.2.0) in [svbutko/react-native-template-strong](https://github.com/svbutko/react-native-template-strong)
+4. 🎉 Merged PR [#146](https://github.com/svbutko/react-native-template-strong/pull/146) in [svbutko/react-native-template-strong](https://github.com/svbutko/react-native-template-strong)
+5. 💪 Opened PR [#146](https://github.com/svbutko/react-native-template-strong/pull/146) in [svbutko/react-native-template-strong](https://github.com/svbutko/react-native-template-strong)
 <!--END_SECTION:activity-->
 
 <br />
