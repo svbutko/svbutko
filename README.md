@@ -48,11 +48,11 @@
 ### ⚡️ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#149](https://github.com/svbutko/react-native-template-strong/pull/149) in [svbutko/react-native-template-strong](https://github.com/svbutko/react-native-template-strong)
-2. 💪 Opened PR [#149](https://github.com/svbutko/react-native-template-strong/pull/149) in [svbutko/react-native-template-strong](https://github.com/svbutko/react-native-template-strong)
-3. 🗣 Commented on [#609](https://github.com/react-native-tvos/react-native-tvos/issues/609#issuecomment-1843059845) in [react-native-tvos/react-native-tvos](https://github.com/react-native-tvos/react-native-tvos)
-4. 🗣 Commented on [#609](https://github.com/react-native-tvos/react-native-tvos/issues/609#issuecomment-1840306639) in [react-native-tvos/react-native-tvos](https://github.com/react-native-tvos/react-native-tvos)
-5. 🗣 Commented on [#609](https://github.com/react-native-tvos/react-native-tvos/issues/609#issuecomment-1839430658) in [react-native-tvos/react-native-tvos](https://github.com/react-native-tvos/react-native-tvos)
+1. 💪 Opened PR [#151](https://github.com/svbutko/react-native-template-strong/pull/151) in [svbutko/react-native-template-strong](https://github.com/svbutko/react-native-template-strong)
+2. ❌ Closed PR [#147](https://github.com/svbutko/react-native-template-strong/pull/147) in [svbutko/react-native-template-strong](https://github.com/svbutko/react-native-template-strong)
+3. ❌ Closed PR [#148](https://github.com/svbutko/react-native-template-strong/pull/148) in [svbutko/react-native-template-strong](https://github.com/svbutko/react-native-template-strong)
+4. 🎉 Merged PR [#150](https://github.com/svbutko/react-native-template-strong/pull/150) in [svbutko/react-native-template-strong](https://github.com/svbutko/react-native-template-strong)
+5. 💪 Opened PR [#150](https://github.com/svbutko/react-native-template-strong/pull/150) in [svbutko/react-native-template-strong](https://github.com/svbutko/react-native-template-strong)
 <!--END_SECTION:activity-->
 
 <br />
