@@ -1,10 +1,9 @@
 ### Hi there, I'm Sergei 👋
-## I'm a React Native, React Developer, Blogger and a kind person !
+## I'm a React Native, React Developer and a kind person !
 
 - 🔭 I’m currently working on developing and contributing in react-native repos!
-- 🌱 I’m currently learning lots of stuff in different fields
+- 🌱 I’m currently learning native TV environments and other different fields
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2023 Goals: Contribute more to Open Source projects and write more articles
 
 ### Connect with me:
 
@@ -43,8 +42,6 @@
 - [WebStorm plugins to boost your productivity](https://dev.to/svbutko/webstorm-plugins-to-boost-your-productivity-nac)
 <!-- BLOG-POST-LIST:END -->
 
-<br />
-
 ### ⚡️ Recent Activity
 
 <!--START_SECTION:activity-->
@@ -54,13 +51,6 @@
 4. 💪 Opened PR [#161](https://github.com/svbutko/react-native-template-strong/pull/161) in [svbutko/react-native-template-strong](https://github.com/svbutko/react-native-template-strong)
 5. 🎉 Merged PR [#160](https://github.com/svbutko/react-native-template-strong/pull/160) in [svbutko/react-native-template-strong](https://github.com/svbutko/react-native-template-strong)
 <!--END_SECTION:activity-->
-
-<br />
-
-[![Svbutko's github stats](https://github-readme-stats.vercel.app/api?username=svbutko&count_private=true&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff)]()
-
-[![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=svbutko&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff)]()
-
 
 [twitter]: https://twitter.com/svbutko
 [linkedin]: https://linkedin.com/in/svbutko
