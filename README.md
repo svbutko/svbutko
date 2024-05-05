@@ -45,11 +45,11 @@
 ### ⚡️ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#16](https://github.com/svbutko/eslint-config-react-strong/pull/16) in [svbutko/eslint-config-react-strong](https://github.com/svbutko/eslint-config-react-strong)
-2. 🎉 Merged PR [#19](https://github.com/svbutko/eslint-config-react-strong/pull/19) in [svbutko/eslint-config-react-strong](https://github.com/svbutko/eslint-config-react-strong)
-3. 💪 Opened PR [#19](https://github.com/svbutko/eslint-config-react-strong/pull/19) in [svbutko/eslint-config-react-strong](https://github.com/svbutko/eslint-config-react-strong)
-4. 🎉 Merged PR [#164](https://github.com/svbutko/react-native-template-strong/pull/164) in [svbutko/react-native-template-strong](https://github.com/svbutko/react-native-template-strong)
-5. 💪 Opened PR [#164](https://github.com/svbutko/react-native-template-strong/pull/164) in [svbutko/react-native-template-strong](https://github.com/svbutko/react-native-template-strong)
+1. 🚀 Published release [3.0.0](https://github.com/svbutko/react-native-template-strong/releases/tag/v3.0.0) in [svbutko/react-native-template-strong](https://github.com/svbutko/react-native-template-strong)
+2. 🎉 Merged PR [#166](https://github.com/svbutko/react-native-template-strong/pull/166) in [svbutko/react-native-template-strong](https://github.com/svbutko/react-native-template-strong)
+3. 💪 Opened PR [#166](https://github.com/svbutko/react-native-template-strong/pull/166) in [svbutko/react-native-template-strong](https://github.com/svbutko/react-native-template-strong)
+4. 🚀 Published release [2.4.0](https://github.com/svbutko/eslint-config-react-strong/releases/tag/v2.4.0) in [svbutko/eslint-config-react-strong](https://github.com/svbutko/eslint-config-react-strong)
+5. 🎉 Merged PR [#165](https://github.com/svbutko/react-native-template-strong/pull/165) in [svbutko/react-native-template-strong](https://github.com/svbutko/react-native-template-strong)
 <!--END_SECTION:activity-->
 
 [twitter]: https://twitter.com/svbutko
