@@ -45,11 +45,11 @@
 ### ⚡️ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [3.0.1](https://github.com/svbutko/react-native-template-strong/releases/tag/v3.0.1) in [svbutko/react-native-template-strong](https://github.com/svbutko/react-native-template-strong)
-2. 🎉 Merged PR [#167](https://github.com/svbutko/react-native-template-strong/pull/167) in [svbutko/react-native-template-strong](https://github.com/svbutko/react-native-template-strong)
-3. 💪 Opened PR [#167](https://github.com/svbutko/react-native-template-strong/pull/167) in [svbutko/react-native-template-strong](https://github.com/svbutko/react-native-template-strong)
-4. 🚀 Published release [3.0.0](https://github.com/svbutko/react-native-template-strong/releases/tag/v3.0.0) in [svbutko/react-native-template-strong](https://github.com/svbutko/react-native-template-strong)
-5. 🎉 Merged PR [#166](https://github.com/svbutko/react-native-template-strong/pull/166) in [svbutko/react-native-template-strong](https://github.com/svbutko/react-native-template-strong)
+1. 🎉 Merged PR [#168](https://github.com/svbutko/react-native-template-strong/pull/168) in [svbutko/react-native-template-strong](https://github.com/svbutko/react-native-template-strong)
+2. 💪 Opened PR [#168](https://github.com/svbutko/react-native-template-strong/pull/168) in [svbutko/react-native-template-strong](https://github.com/svbutko/react-native-template-strong)
+3. 🚀 Published release [3.0.1](https://github.com/svbutko/react-native-template-strong/releases/tag/v3.0.1) in [svbutko/react-native-template-strong](https://github.com/svbutko/react-native-template-strong)
+4. 🎉 Merged PR [#167](https://github.com/svbutko/react-native-template-strong/pull/167) in [svbutko/react-native-template-strong](https://github.com/svbutko/react-native-template-strong)
+5. 💪 Opened PR [#167](https://github.com/svbutko/react-native-template-strong/pull/167) in [svbutko/react-native-template-strong](https://github.com/svbutko/react-native-template-strong)
 <!--END_SECTION:activity-->
 
 [twitter]: https://twitter.com/svbutko
