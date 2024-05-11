@@ -45,11 +45,11 @@
 ### ⚡️ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#806](https://github.com/react-native-menu/menu/pull/806) in [react-native-menu/menu](https://github.com/react-native-menu/menu)
-2. 🚀 Published release [3.0.3](https://github.com/svbutko/react-native-template-strong/releases/tag/v3.0.3) in [svbutko/react-native-template-strong](https://github.com/svbutko/react-native-template-strong)
-3. 🎉 Merged PR [#169](https://github.com/svbutko/react-native-template-strong/pull/169) in [svbutko/react-native-template-strong](https://github.com/svbutko/react-native-template-strong)
-4. 💪 Opened PR [#169](https://github.com/svbutko/react-native-template-strong/pull/169) in [svbutko/react-native-template-strong](https://github.com/svbutko/react-native-template-strong)
-5. 💪 Opened PR [#805](https://github.com/react-native-menu/menu/pull/805) in [react-native-menu/menu](https://github.com/react-native-menu/menu)
+1. 🗣 Commented on [#806](https://github.com/react-native-menu/menu/pull/806#issuecomment-2105673376) in [react-native-menu/menu](https://github.com/react-native-menu/menu)
+2. 💪 Opened PR [#806](https://github.com/react-native-menu/menu/pull/806) in [react-native-menu/menu](https://github.com/react-native-menu/menu)
+3. 🚀 Published release [3.0.3](https://github.com/svbutko/react-native-template-strong/releases/tag/v3.0.3) in [svbutko/react-native-template-strong](https://github.com/svbutko/react-native-template-strong)
+4. 🎉 Merged PR [#169](https://github.com/svbutko/react-native-template-strong/pull/169) in [svbutko/react-native-template-strong](https://github.com/svbutko/react-native-template-strong)
+5. 💪 Opened PR [#169](https://github.com/svbutko/react-native-template-strong/pull/169) in [svbutko/react-native-template-strong](https://github.com/svbutko/react-native-template-strong)
 <!--END_SECTION:activity-->
 
 [twitter]: https://twitter.com/svbutko
