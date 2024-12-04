@@ -45,7 +45,7 @@
 ### ⚡️ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3949](https://github.com/getsentry/sentry-react-native/pull/3949#issuecomment-2260327305) in [getsentry/sentry-react-native](https://github.com/getsentry/sentry-react-native)
+1. ❗ Opened issue [#839](https://github.com/react-native-tvos/react-native-tvos/issues/839) in [react-native-tvos/react-native-tvos](https://github.com/react-native-tvos/react-native-tvos)
 2. 💪 Opened PR [#3949](https://github.com/getsentry/sentry-react-native/pull/3949) in [getsentry/sentry-react-native](https://github.com/getsentry/sentry-react-native)
 3. 💪 Opened PR [#730](https://github.com/react-native-tvos/react-native-tvos/pull/730) in [react-native-tvos/react-native-tvos](https://github.com/react-native-tvos/react-native-tvos)
 4. 🗣 Commented on [#794](https://github.com/react-native-menu/menu/pull/794#issuecomment-2112518958) in [react-native-menu/menu](https://github.com/react-native-menu/menu)
