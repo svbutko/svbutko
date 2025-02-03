@@ -45,11 +45,11 @@
 ### ⚡️ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/svbutko/react-native-image-resource-generator/pull/4) in [svbutko/react-native-image-resource-generator](https://github.com/svbutko/react-native-image-resource-generator)
-2. 💪 Opened PR [#4](https://github.com/svbutko/react-native-image-resource-generator/pull/4) in [svbutko/react-native-image-resource-generator](https://github.com/svbutko/react-native-image-resource-generator)
-3. 🎉 Merged PR [#3](https://github.com/svbutko/react-native-image-resource-generator/pull/3) in [svbutko/react-native-image-resource-generator](https://github.com/svbutko/react-native-image-resource-generator)
-4. 💪 Opened PR [#3](https://github.com/svbutko/react-native-image-resource-generator/pull/3) in [svbutko/react-native-image-resource-generator](https://github.com/svbutko/react-native-image-resource-generator)
-5. 🗣 Commented on [#807](https://github.com/react-native-menu/menu/pull/807#issuecomment-2106002811) in [react-native-menu/menu](https://github.com/react-native-menu/menu)
+1. 🎉 Merged PR [#5](https://github.com/svbutko/react-native-image-resource-generator/pull/5) in [svbutko/react-native-image-resource-generator](https://github.com/svbutko/react-native-image-resource-generator)
+2. 💪 Opened PR [#5](https://github.com/svbutko/react-native-image-resource-generator/pull/5) in [svbutko/react-native-image-resource-generator](https://github.com/svbutko/react-native-image-resource-generator)
+3. 🎉 Merged PR [#4](https://github.com/svbutko/react-native-image-resource-generator/pull/4) in [svbutko/react-native-image-resource-generator](https://github.com/svbutko/react-native-image-resource-generator)
+4. 💪 Opened PR [#4](https://github.com/svbutko/react-native-image-resource-generator/pull/4) in [svbutko/react-native-image-resource-generator](https://github.com/svbutko/react-native-image-resource-generator)
+5. 🎉 Merged PR [#3](https://github.com/svbutko/react-native-image-resource-generator/pull/3) in [svbutko/react-native-image-resource-generator](https://github.com/svbutko/react-native-image-resource-generator)
 <!--END_SECTION:activity-->
 
 [twitter]: https://twitter.com/svbutko
