@@ -45,10 +45,10 @@
 ### ⚡️ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#839](https://github.com/react-native-tvos/react-native-tvos/issues/839#issuecomment-2517147760) in [react-native-tvos/react-native-tvos](https://github.com/react-native-tvos/react-native-tvos)
-2. ❗ Opened issue [#839](https://github.com/react-native-tvos/react-native-tvos/issues/839) in [react-native-tvos/react-native-tvos](https://github.com/react-native-tvos/react-native-tvos)
-3. 💪 Opened PR [#730](https://github.com/react-native-tvos/react-native-tvos/pull/730) in [react-native-tvos/react-native-tvos](https://github.com/react-native-tvos/react-native-tvos)
-4. 🗣 Commented on [#794](https://github.com/react-native-menu/menu/pull/794#issuecomment-2112518958) in [react-native-menu/menu](https://github.com/react-native-menu/menu)
+1. 🎉 Merged PR [#4](https://github.com/svbutko/react-native-image-resource-generator/pull/4) in [svbutko/react-native-image-resource-generator](https://github.com/svbutko/react-native-image-resource-generator)
+2. 💪 Opened PR [#4](https://github.com/svbutko/react-native-image-resource-generator/pull/4) in [svbutko/react-native-image-resource-generator](https://github.com/svbutko/react-native-image-resource-generator)
+3. 🎉 Merged PR [#3](https://github.com/svbutko/react-native-image-resource-generator/pull/3) in [svbutko/react-native-image-resource-generator](https://github.com/svbutko/react-native-image-resource-generator)
+4. 💪 Opened PR [#3](https://github.com/svbutko/react-native-image-resource-generator/pull/3) in [svbutko/react-native-image-resource-generator](https://github.com/svbutko/react-native-image-resource-generator)
 5. 🗣 Commented on [#807](https://github.com/react-native-menu/menu/pull/807#issuecomment-2106002811) in [react-native-menu/menu](https://github.com/react-native-menu/menu)
 <!--END_SECTION:activity-->
 
