@@ -7,10 +7,8 @@
 
 ### Connect with me:
 
-[<img align="left" alt="svbutko | Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
 [<img align="left" alt="svbutko | LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
 [<img align="left" alt="svbutko | DevTo" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" />][devdotto]
-[<img align="left" alt="svbutko | Reddit" src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" />][reddit]
 
 <br />
 
@@ -32,28 +30,5 @@
 
 <br />
 
-### 📕 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [React Native Template Strong](https://dev.to/svbutko/react-native-template-strong-28h)
-- [ESLint Config for React and React Native Development](https://dev.to/svbutko/eslint-config-for-react-and-react-native-development-25m)
-- [React Native Image Resource Generator](https://dev.to/svbutko/react-native-image-resource-generator-m14)
-- [React Native resources to learn and get inspiration](https://dev.to/svbutko/react-native-resources-to-learn-and-get-inspiration-1845)
-- [WebStorm plugins to boost your productivity](https://dev.to/svbutko/webstorm-plugins-to-boost-your-productivity-nac)
-<!-- BLOG-POST-LIST:END -->
-
-### ⚡️ Recent Activity
-
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/svbutko/react-native-image-resource-generator/pull/5) in [svbutko/react-native-image-resource-generator](https://github.com/svbutko/react-native-image-resource-generator)
-2. 💪 Opened PR [#5](https://github.com/svbutko/react-native-image-resource-generator/pull/5) in [svbutko/react-native-image-resource-generator](https://github.com/svbutko/react-native-image-resource-generator)
-3. 🎉 Merged PR [#4](https://github.com/svbutko/react-native-image-resource-generator/pull/4) in [svbutko/react-native-image-resource-generator](https://github.com/svbutko/react-native-image-resource-generator)
-4. 💪 Opened PR [#4](https://github.com/svbutko/react-native-image-resource-generator/pull/4) in [svbutko/react-native-image-resource-generator](https://github.com/svbutko/react-native-image-resource-generator)
-5. 🎉 Merged PR [#3](https://github.com/svbutko/react-native-image-resource-generator/pull/3) in [svbutko/react-native-image-resource-generator](https://github.com/svbutko/react-native-image-resource-generator)
-<!--END_SECTION:activity-->
-
-[twitter]: https://twitter.com/svbutko
 [linkedin]: https://linkedin.com/in/svbutko
-[medium]: https://medium.com/@svbutko
 [devdotto]: https://dev.to/svbutko
-[reddit]: https://www.reddit.com/user/S3rg1usz
